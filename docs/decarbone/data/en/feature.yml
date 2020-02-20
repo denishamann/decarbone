@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/cars2.jpg
+  image_webp : images/about/cars2.jpg
+  title : We convert all types of vehicles.
+  content : ""
+  feature_item : 
+      # feature item loop
+    - title : Urban cars
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Our focus is on urban cars. Cities are the environment where the electric vehicles perform the best and where thermal cars perform the worst. In an urban environment the electric car consumption is very low allowing to have small batteries and lighter vehicles.  
+      
+      # feature item loop
+    - title : Robustness
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Classic motors are complex, fragile and often the cause of breakdown while the structure of the vehicle can still run for a while. Electric motors can handle a million miles thanks to a simple and efficient design. 
+
+      # feature item loop
+    - title : Out of emissions norms
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : While the restrictions for diesel and gas cars increase, limiting their access in cities, the conversion releases your car from any restriction and reaches your car to the top of the standards.
+      
+      # feature item loop
+    - title : Broken cars
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Many cars with a broken motor are sold for peanuts while they are still valuable. By replacing their motorisation they can find back their original value and even more. 

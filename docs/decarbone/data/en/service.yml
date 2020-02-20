@@ -1,0 +1,30 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Electric motorisation
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : We install the latest and most efficient technologies into your car to offer you the best experience of an electric vehicle.
+      
+    # service item loop
+    - name : Certification and safety
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : All the parts are certified and installed in a way to ensure safety at all levels.
+      
+    # service item loop
+    - name : Tailor-Made
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : Since every car is special, a tailor-made work is performed to integrate the new system seemlessly.
+      
+    # service item loop
+    - name : Battery range
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : The battery range is set in function of your needs between multipes available options. We ensure that the converted car meets the client requirements.
+      
+    # service item loop
+    - name : A Team of Experts
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : The team combines a strong expertise in several fields allowing to integrate the latest technologies and to advise clients successfully.
+      

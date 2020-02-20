@@ -1,0 +1,54 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : Arthur Andruszkiewicz
+      image_webp : images/team/team-1.webp
+      image : images/team/team-1.jpg
+      designation : Electricity & eMobility expert
+      content : Working in the R&D for Electric Mobility, Arthur is also involved in microgrids systems. He is familiar with electrons and takes the lead on the electric systems.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/arthur-andruszkiewicz-b06779a8/"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Djef Brak
+      image_webp : images/team/team-2.webp
+      image : images/team/team-2.jpg
+      designation : Battery expert
+      content : Passionate by the complexity of Sciences, he has been working several years for the research on latest battery technologies. He ensures the integration of the best battery systems for conversion.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Nicolas Stas
+      image_webp : images/team/nico.webp
+      image : images/team/nico.jpg
+      designation : Mechanics expert
+      content : Born in an engine, Nicolas knows more than most about car mechanics. Working in the automobile industry, he is the perfect mechanics expert.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/stas-nicolas-b45a70130/"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    

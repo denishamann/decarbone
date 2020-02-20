@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/green.jpg"
+  bg_image : "images/backgrounds/green.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Experience the car conversion"
+  content : "Combine the past with the best new green technologies!"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#about"
