@@ -4,7 +4,7 @@ contact:
   title : Contact Us
   subtitle : Contact Details
   content : You are interested in the conversion of your fleet of vehicles or you have questions about the project ? Do not hesitate to contact us.
-  form_action: "#" #contact form works with https://formspree.io
+  form_action: "https://formspree.io/meqkqvze" #contact form works with https://formspree.io
 
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
