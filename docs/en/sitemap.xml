@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://decarbone.eu/blog/</loc>
-    <lastmod>2020-01-12T12:52:36+06:00</lastmod>
+    <lastmod>2020-02-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://decarbone.eu/</loc>
-    <lastmod>2020-01-12T12:52:36+06:00</lastmod>
+    <lastmod>2020-02-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -29,6 +29,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://decarbone.eu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://decarbone.eu/blog/simple-blog-post-1/</loc>
+    <lastmod>2020-02-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://decarbone.eu/fr/blog/simple-blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbone.eu/blog/simple-blog-post-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://decarbone.eu/blog/simple-blog-post-4/</loc>
+    <lastmod>2020-01-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://decarbone.eu/fr/blog/simple-blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decarbone.eu/blog/simple-blog-post-4/"
                 />
   </url>
   
@@ -48,53 +78,8 @@
   </url>
   
   <url>
-    <loc>https://decarbone.eu/blog/installation/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://decarbone.eu/fr/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://decarbone.eu/blog/installation/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://decarbone.eu/blog/simple-blog-post-4/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://decarbone.eu/fr/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://decarbone.eu/blog/simple-blog-post-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://decarbone.eu/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://decarbone.eu/fr/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://decarbone.eu/blog/simple-blog-post-1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://decarbone.eu/blog/simple-blog-post-2/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2020-01-01T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"

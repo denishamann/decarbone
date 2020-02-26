@@ -1,6 +1,6 @@
 ---
 title: "EV batteries are getting cleaner and cleaner: 2-3 times better than 2 years ago"
-date: 2018-09-12T12:52:36+06:00
+date: 2020-01-12T12:52:36+06:00
 image_webp: images/blog/batteries.jpg
 image: images/blog/batteries.jpg
 author: T&E

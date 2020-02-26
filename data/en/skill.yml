@@ -2,7 +2,7 @@
 skill:
   enable : true
   title : Green transition
-  subtitle : Circular Economy.
+  subtitle : Circular Economy
   content : Converting the car does not only bring a better experience of riding, it also saves obsolete cars from the trash. One car converted is one car less produced, saving a lot of grey energy and GHG emissions necessary for  manufacture. This is pure circular economy. 
   image : images/about/CircularEV.jpg
   skill_item :
