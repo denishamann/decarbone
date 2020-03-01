@@ -9,9 +9,6 @@ contact:
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Brussels, Belgium"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +32-31-000-000"
-           
+              
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@decarbone.eu"
