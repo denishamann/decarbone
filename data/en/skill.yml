@@ -12,11 +12,11 @@ skill:
       
     # skill item loop
     - name :  8 tons of CO2 saved on grey energy (production of a new car)
-      percent : 80%
+      percent : 50%
       
     # skill item loop
     - name :  Running electric produces 5 times less CO2 per km in Belgium
-      percent : 75%
+      percent : 20%
       
     - name :  No more noise pollution
       percent : 95%
