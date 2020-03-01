@@ -7,18 +7,18 @@ skill:
   image : images/about/CircularEV.jpg
   skill_item :
     # skill item loop
-    - name :  CO2 savings 
+    - name :  No more local emissions of GHG and fine particles 
       percent : 90%
       
     # skill item loop
-    - name :  Circular economy
+    - name :  8 tons of CO2 saved on grey energy (production of a new car)
       percent : 80%
       
     # skill item loop
-    - name :  No more local emissions
+    - name :  Running electric produces 5 times less CO2 per km in Belgium
       percent : 75%
       
-    - name :  8 tons of CO2 saved on grey energy (production of a new car)
+    - name :  No more noise pollution
       percent : 95%
       
     # skill item loop
