@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/green.jpg"
   bg_image : "images/backgrounds/green.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the car conversion"
-  content : "Combine the past with the best new green technologies!"
+  title : "Electrify your ride"
+  content : "Convert your car into an electric one. Keep its authenticity and combine it with the best new technologies!"
   button:
     enable : true
     label : "Explore Us"
