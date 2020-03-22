@@ -5,22 +5,8 @@ skill:
   subtitle : Circular Economy
   content : Converting the car does not only bring a better experience of riding, it also saves obsolete cars from the trash. One car converted is one car less produced, saving a lot of grey energy and GHG emissions necessary for  manufacture. This is pure circular economy. 
   image : images/about/CircularEV.jpg
-  skill_item :
-    # skill item loop
-    - name :  No more local emissions of GHG and fine particles 
-      percent : 90%
+  subtitlebis : Eco-friendly
+  contentbis : Riding electric eliminates all emissions from the exhaust pipe. No more local CO2, no more fine particles. In Belgium when electric vehicles are on the road they produce 5 times less CO2 than thermal cars and this will get improved further with the penetration of low carbon electricity production. Converting your car to electricity is the way to be more environment friendly. 
+  imagebis : images/icons/CO2cloud.png
+
       
-    # skill item loop
-    - name :  8 tons of CO2 saved on grey energy (production of a new car)
-      percent : 50%
-      
-    # skill item loop
-    - name :  Running electric produces 5 times less CO2 per km in Belgium
-      percent : 20%
-      
-    - name :  No more noise pollution
-      percent : 95%
-      
-    # skill item loop
-    - name :  Enjoy the ride
-      percent : 99%
