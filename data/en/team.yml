@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : Arthur Andruszkiewicz
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      image_webp : images/team/arthur4.webp
+      image : images/team/arthur4.jpg
       designation : Electricity & eMobility expert
       content : Working in the R&D for Electric Mobility, Arthur is also involved in microgrids systems. He is familiar with electrons and takes the lead on the electric systems.
       social :
