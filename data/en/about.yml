@@ -3,15 +3,15 @@ about:
   enable : true
   title : Convert your car
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : images/icons/rebirth.png
     title : Rebirth
     content : Make your car new again with a complete new engine. Electric motors are the most simple and robust technologies. Discover the pleasure to ride electric!
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : images/icons/greenify.png
     title : Greenify your ride 
     content : No more local emissions. Be also part of the change and ride wherever you want without any access restriction such as in low emission zones.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : images/icons/ReturnOnInvestment.png
     title : Return on investment
     content : Converting your car is a return on investment. 3 times less fuel costs, maintenance costs lowered and  reduction on taxes.
 
